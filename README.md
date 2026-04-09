@@ -1,1 +1,82 @@
-# Alfania-nussy
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata Saya</title>
+
+    <style>
+        body {
+            background-image: url("images nia.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container{
+           width: 60%;
+            margin: 100px auto;
+            background-color: rgba(255, 255, 255, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+            text-align: center;
+            max-width: 500px;
+            border-radius: 8px;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 10px;
+
+        }
+        ul, ol {
+            margin: 5px 0;
+            padding-left: 20px;
+
+        }
+
+
+    </style>
+
+</head>
+<body>
+
+
+<!-- BIODATA -->
+<div class="container" id="biodata">
+    <h1>Biodata Saya</h1>
+    <img src="nia.jpg" width="250" height="200" alt="Foto Profil">
+
+    <h2>Tentang Saya</h2>
+    <p>Saya adalah mahasiswa yang tertarik pada bidang Ilmu komputer yang ingin mempelajari mata kuliah pemograman web.</p>
+
+    <h2>Data Diri</h2>
+    <p>Nama: Alfania A J Nussy</p>
+    <p>Umur: 19 Tahun</p>
+    <p>Status: mahasiswa</p>
+    <p>Alamat: Jl Yan payys</p>
+    <p>Email: josephinenussyalfaniaanjie@email.com</p>
+
+    <h2>Pendidikan</h2>
+    <p>SD Negeri : 2 Malteng</p>
+    <p>SMP Negeri : 11 Malteng</p>
+    <p>SMK : 2 Ambon</p>
+
+    <h2>Hoby</h2>
+    <p>ML, FF</p>
+
+    <h2>Kontak</h2>
+    <p>Instagram: nussynia</p>
+
+
+
+</div>
+
+</body>
+</html>
